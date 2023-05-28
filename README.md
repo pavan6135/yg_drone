@@ -1,2 +1,2 @@
 # yg_drone
-drone controller
+The mobile app is a cutting-edge mobile application specifically created for flying the drone and ought to be created in a way that makes it specifically intended for using drones. Simple functions like live video capture, real-time data collection, and water sprinkling should be under its control whenever a fire affects a particular area. Thanks to safety features, media control, and compatibility with iOS and Android smartphones, it opens up a world of thrilling drone flight and amazing photo capture.
